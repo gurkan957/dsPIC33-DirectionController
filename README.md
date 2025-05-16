@@ -24,7 +24,7 @@ Proje, 2D platform oyunları, yarış oyunları gibi yön kontrolü gerektiren u
 
 ### Donanım
 - dsPIC33EP128GP502 mikrodenetleyicisi  
-- 16x2 LCD ekran (HD44780 uyumlu, 4-bit mod)  
+- 16x2 LCD ekran 
 - 2 adet buton (SW1, SW2)  
 - 2 adet LED (LED1, LED2)  
 
