@@ -2,11 +2,11 @@
 # Mikrodenetleyici ile Oyun Yön Kontrolü  
 **A button-based game controller using dsPIC33EP128GP502**
 
-Bu proje, dsPIC33EP128GP502 mikrodenetleyicisi kullanılarak geliştirilmiş bir oyun yön kontrol cihazıdır.  
-İki buton (SW1 ve SW2) aracılığıyla oyunlarda sağ ve sol yön kontrolü sağlar.  
-Mikrodenetleyici, buton girişlerini algılar, bir LCD ekranda durum mesajları gösterir, LED'lerle görsel geri bildirim sağlar ve UART üzerinden PC'ye veri gönderir.  
-Python betiği, seri port verilerini işleyerek klavye ok tuşlarını kontrol eder.  
-Proje, 2D platform oyunları, yarış oyunları gibi yön kontrolü gerektiren uygulamalarda kullanılabilir.
+- Bu proje, dsPIC33EP128GP502 mikrodenetleyicisi kullanılarak geliştirilmiş bir oyun yön kontrol cihazıdır.  
+- İki buton (SW1 ve SW2) aracılığıyla oyunlarda sağ ve sol yön kontrolü sağlar.  
+- Mikrodenetleyici, buton girişlerini algılar, bir LCD ekranda durum mesajları gösterir, LED'lerle görsel geri bildirim sağlar ve UART üzerinden PC'ye veri gönderir.  
+- Python betiği, seri port verilerini işleyerek klavye ok tuşlarını kontrol eder.  
+- Proje, 2D platform oyunları, yarış oyunları gibi yön kontrolü gerektiren uygulamalarda kullanılabilir.
 
 ---
 
