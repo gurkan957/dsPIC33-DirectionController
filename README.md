@@ -112,12 +112,6 @@ Proje, 2D platform oyunları, yarış oyunları gibi yön kontrolü gerektiren u
 
 ---
 
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakınız.
-
----
-
 ## İletişim
 
 Sorularınız veya geri bildirimleriniz için [GitHub kullanıcı adınız veya e-posta adresiniz] üzerinden ulaşabilirsiniz.
